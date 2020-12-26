@@ -1,0 +1,84 @@
+body
+{
+    background-color: #425fff;
+}
+
+#header
+{
+    font-size: 35px;
+    border-radius: 15px;
+    color: #6c6c6c;
+    border: 7px solid black;
+    width: 1500px;
+    font-family: 'Source Code Pro', monospace;
+    background-color: #f25738;
+}
+
+#test_1_note, #test_2_note, #test_3_note, #test_4_note, #test_5_note, #test_6_note, #test_7_note
+{
+    font-size: 17px;
+    background-color: white;
+    border: 3px dashed black;
+}
+
+#test_1_tooth_paste_img, #test_2_pillow_img, #test_3_comb_img, #test_4_school_book_img, #test_5_name_img, #test_6_spoon_img, #test_7_mobile_phone-img
+{
+    border: 3px solid black;
+    border-radius: 25px;
+}
+
+#test_1_div, #test_2_div, #test_3_div, #test_4_div, #test_5_div, #test_6_div, #test_7_div
+{
+    height: 550px;
+    width: 800px;
+    background-color: #45d16a;
+    border-radius: 25px;
+    box-shadow: 10px 10px 22px 10px #525252;
+}
+
+#final_result
+{
+    color: white;
+    border-radius: 25px;
+    border: 3px solid #ffd82b;
+    background-color: #e83881;
+    font-size: 25px;
+    font-family: 'Teko', sans-serif;
+}
+
+#test_1_header, #test_2_header, #test_3_header, #test_4_header, #test_5_header, #test_6_header, #test_7_header
+{
+border: 5px solid black;
+background-color: #ffbb00;
+color: #0066ff;
+border-radius: 15px;
+}
+
+#test_1_final_result
+{
+
+}
+
+#test_2_final_result
+{
+
+}
+
+#test_3_final_result
+{
+
+}
+
+#test_4_final_result
+{
+    
+}
+
+#test_5_final_result
+{
+    
+}
+
+///background-color: #2b8eff;
+border: 5px solid black;
+border-radius: 25px;
